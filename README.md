@@ -5,7 +5,9 @@
 🤖 Passionate about Machine Learning & Programming  
 
 ## 🔧 Technologies
-- 💻 Python, SQL, C++  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 - 🤖 Machine Learning, Deep Learning
 - 📊 Data Science, Data Visualization  
 
@@ -16,6 +18,6 @@
 - Kaggle: [My Kaggle](https://www.kaggle.com/mahdidavoudi)
 
 🚀 Always learning & exploring new technologies!  
-
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=red)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhidi&show_icons=true&theme=radical)
 
