@@ -4,6 +4,7 @@
 🎓 Computer Engineering   
 🤖 Passionate about Machine Learning & Programming  
 
+## 🔧 Technologies
 - 💻 Python, SQL, C++  
 - 🤖 Machine Learning, Deep Learning
 - 📊 Data Science, Data Visualization  
