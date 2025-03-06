@@ -18,6 +18,7 @@
 - Kaggle: [My Kaggle](https://www.kaggle.com/mahdidavoudi)
 
 🚀 Always learning & exploring new technologies!  
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=madhidi&color=red)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhidi&show_icons=true&theme=radical)
 
