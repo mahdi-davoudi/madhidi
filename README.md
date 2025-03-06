@@ -9,10 +9,10 @@
 - 📊 Data Science, Data Visualization  
 
 ## 📫 Connect with Me  
-- LinkedIn:   in/mahdi383
-- Email:      mahdidavoudi383@gmail.com
-- telegram:   https://t.me/mhd_dvd
-- Kaggle:     (https://www.kaggle.com/mahdidavoudi)
+- LinkedIn: [My LinkedIn](in/mahdi383)
+- Email:  mahdidavoudi383@gmail.com
+- telegram: [My Telegram](https://t.me/mhd_dvd)
+- Kaggle: [My Kaggle](https://www.kaggle.com/mahdidavoudi)
 
 🚀 Always learning & exploring new technologies!  
 
