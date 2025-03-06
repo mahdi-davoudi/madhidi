@@ -14,6 +14,7 @@
 - telegram:   https://t.me/mhd_dvd
 - Kaggle:     (https://www.kaggle.com/mahdidavoudi)
 
-
 🚀 Always learning & exploring new technologies!  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhidi&show_icons=true&theme=radical)
 
