@@ -1,5 +1,5 @@
 
-# 👋 Hi there! I'm @madhidi   
+# 👋 Hi there! I'm @mahdi-davoudi 
 
 🎓 Computer Engineering   
 🤖 Passionate about Machine Learning & Programming  
